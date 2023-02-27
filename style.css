@@ -1,0 +1,52 @@
+
+*{margin:0;
+    padding:0;
+
+}
+.navbar{
+    margin:0px;
+    box-sizing: boarder-box;
+    display: flex;
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    justify-content: space-around;
+    background-color:antiquewhite;
+    align-items:center;
+    margin: 10px;
+    padding: 2 px;
+    background-image:https://mobimg.b-cdn.net/v3/fetch/3a/3afda9fff30a7e792a9fdf819267a536.jpeg;
+    background-position:center;
+
+}
+  .navbar a:hover{text-decoration-color:red;}
+
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  div2{
+    display:conents;
+    justify-content:center;
+
+  }
+  .contact{
+    margin:25px;
+    width:25
+  }
+  
+  nav{
+    width:100%;
+    height:75px;
+    line-height: 75px;
+  }
+  
+  }
+
+nav .navbar p{
+    font-size:30 px;
+    font-weight;
+    float: left;
+    colour:black;
+    letter-spacing: 1.5 px;
+}
